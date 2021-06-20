@@ -1,0 +1,33 @@
+@font-face {
+  font-family: DancingScript;
+  src: url(fonts/DancingScript/DancingScript-Regular.ttf);
+}
+
+h1{
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic ;
+
+  /*Colores*/
+
+  /*Colores del sistema*/
+  color:mediumpurple;
+  /*Colores hexadecimales*/
+  /* color:#cccccc; */
+  /* color:#fff; */
+
+  /*Colores RGB*/
+  color:rgb(255,255,107);
+  /*Colores RGBA*/
+  color: rgba(255,255,107,1);
+}
+h3 {
+  font-family: DancingScript,"Comic Sasn MS";
+  /*font-size: 1rem;*/
+  font-size: 25px;
+  font-weight: lighter;
+}
+p {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}

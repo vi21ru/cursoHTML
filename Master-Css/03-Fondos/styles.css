@@ -1,0 +1,29 @@
+body {
+  background-color: #ccc;
+
+  /* background-image: url("img/paisaje1.jpg"); */
+  /* background-repeat: repeat; */
+  /*background-size: 100%;
+  background-attachment: fixed;
+  background-position: left bottom;*/
+  text-indent: 15px;
+  word-spacing: 3px;
+  letter-spacing: 1px;
+}
+
+#caja {
+  background-image: url("img/pattern5.jpg");
+  border:5px solid black;
+  padding: 10px;
+  background-color: rgb(68, 65, 150);
+  color: blue;
+  font-family: "Open Sans";
+  text-align: center;
+  line-height: 50px;
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+
+p {color: black;
+  background-color: rgba(249,249,249,0.5);
+  padding: 1rem;}
