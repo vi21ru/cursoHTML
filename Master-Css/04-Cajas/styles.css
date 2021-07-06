@@ -6,6 +6,10 @@
 body {
   padding: 20px;
 }
+#cajas {
+  max-width: 1110px;
+  border: 1px solid black;
+}
 .caja{
   display: block;
   width: 250px;
